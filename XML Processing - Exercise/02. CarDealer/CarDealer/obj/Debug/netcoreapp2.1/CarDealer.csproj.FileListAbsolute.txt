@@ -1,0 +1,11 @@
+D:\Projects\CSharpDBFundamentals\Databases Advanced - Entity Framework\XML Processing - Exercise\02. CarDealer\CarDealer\bin\Debug\netcoreapp2.1\CarDealer.deps.json
+D:\Projects\CSharpDBFundamentals\Databases Advanced - Entity Framework\XML Processing - Exercise\02. CarDealer\CarDealer\bin\Debug\netcoreapp2.1\CarDealer.runtimeconfig.json
+D:\Projects\CSharpDBFundamentals\Databases Advanced - Entity Framework\XML Processing - Exercise\02. CarDealer\CarDealer\bin\Debug\netcoreapp2.1\CarDealer.runtimeconfig.dev.json
+D:\Projects\CSharpDBFundamentals\Databases Advanced - Entity Framework\XML Processing - Exercise\02. CarDealer\CarDealer\bin\Debug\netcoreapp2.1\CarDealer.dll
+D:\Projects\CSharpDBFundamentals\Databases Advanced - Entity Framework\XML Processing - Exercise\02. CarDealer\CarDealer\bin\Debug\netcoreapp2.1\CarDealer.pdb
+D:\Projects\CSharpDBFundamentals\Databases Advanced - Entity Framework\XML Processing - Exercise\02. CarDealer\CarDealer\obj\Debug\netcoreapp2.1\CarDealer.csprojAssemblyReference.cache
+D:\Projects\CSharpDBFundamentals\Databases Advanced - Entity Framework\XML Processing - Exercise\02. CarDealer\CarDealer\obj\Debug\netcoreapp2.1\CarDealer.csproj.CoreCompileInputs.cache
+D:\Projects\CSharpDBFundamentals\Databases Advanced - Entity Framework\XML Processing - Exercise\02. CarDealer\CarDealer\obj\Debug\netcoreapp2.1\CarDealer.AssemblyInfoInputs.cache
+D:\Projects\CSharpDBFundamentals\Databases Advanced - Entity Framework\XML Processing - Exercise\02. CarDealer\CarDealer\obj\Debug\netcoreapp2.1\CarDealer.AssemblyInfo.cs
+D:\Projects\CSharpDBFundamentals\Databases Advanced - Entity Framework\XML Processing - Exercise\02. CarDealer\CarDealer\obj\Debug\netcoreapp2.1\CarDealer.dll
+D:\Projects\CSharpDBFundamentals\Databases Advanced - Entity Framework\XML Processing - Exercise\02. CarDealer\CarDealer\obj\Debug\netcoreapp2.1\CarDealer.pdb

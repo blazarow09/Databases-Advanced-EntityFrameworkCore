@@ -1,0 +1,24 @@
+[
+    {
+        "Name": "Name",
+        "Type": "cat",
+        "Age": 0,
+        "Passport": {
+            "SerialNumber": "anothev150",
+            "OwnerName": "Magda Bjork",
+            "OwnerPhoneNumber": "+359897765120",
+            "RegistrationDate": "15-04-2015"
+        }
+    },
+    {
+        "Name": "Name",
+        "Type": "cat",
+        "Age": -10,
+        "Passport": {
+            "SerialNumber": "anothev650",
+            "OwnerName": "Magda Bjork",
+            "OwnerPhoneNumber": "+359897765120",
+            "RegistrationDate": "15-04-2015"
+        }
+    }
+]

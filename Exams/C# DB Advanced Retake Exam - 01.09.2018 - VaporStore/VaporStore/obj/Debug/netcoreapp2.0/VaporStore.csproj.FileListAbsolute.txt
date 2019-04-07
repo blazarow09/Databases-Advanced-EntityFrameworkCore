@@ -1,0 +1,11 @@
+D:\Projects\CSharpDBFundamentals\Databases Advanced - Entity Framework\Exams\C# DB Advanced Retake Exam - 01.09.2018 - VaporStore\VaporStore\bin\Debug\netcoreapp2.0\VaporStore.deps.json
+D:\Projects\CSharpDBFundamentals\Databases Advanced - Entity Framework\Exams\C# DB Advanced Retake Exam - 01.09.2018 - VaporStore\VaporStore\bin\Debug\netcoreapp2.0\VaporStore.runtimeconfig.json
+D:\Projects\CSharpDBFundamentals\Databases Advanced - Entity Framework\Exams\C# DB Advanced Retake Exam - 01.09.2018 - VaporStore\VaporStore\bin\Debug\netcoreapp2.0\VaporStore.runtimeconfig.dev.json
+D:\Projects\CSharpDBFundamentals\Databases Advanced - Entity Framework\Exams\C# DB Advanced Retake Exam - 01.09.2018 - VaporStore\VaporStore\bin\Debug\netcoreapp2.0\VaporStore.dll
+D:\Projects\CSharpDBFundamentals\Databases Advanced - Entity Framework\Exams\C# DB Advanced Retake Exam - 01.09.2018 - VaporStore\VaporStore\bin\Debug\netcoreapp2.0\VaporStore.pdb
+D:\Projects\CSharpDBFundamentals\Databases Advanced - Entity Framework\Exams\C# DB Advanced Retake Exam - 01.09.2018 - VaporStore\VaporStore\obj\Debug\netcoreapp2.0\VaporStore.csprojAssemblyReference.cache
+D:\Projects\CSharpDBFundamentals\Databases Advanced - Entity Framework\Exams\C# DB Advanced Retake Exam - 01.09.2018 - VaporStore\VaporStore\obj\Debug\netcoreapp2.0\VaporStore.csproj.CoreCompileInputs.cache
+D:\Projects\CSharpDBFundamentals\Databases Advanced - Entity Framework\Exams\C# DB Advanced Retake Exam - 01.09.2018 - VaporStore\VaporStore\obj\Debug\netcoreapp2.0\VaporStore.AssemblyInfoInputs.cache
+D:\Projects\CSharpDBFundamentals\Databases Advanced - Entity Framework\Exams\C# DB Advanced Retake Exam - 01.09.2018 - VaporStore\VaporStore\obj\Debug\netcoreapp2.0\VaporStore.AssemblyInfo.cs
+D:\Projects\CSharpDBFundamentals\Databases Advanced - Entity Framework\Exams\C# DB Advanced Retake Exam - 01.09.2018 - VaporStore\VaporStore\obj\Debug\netcoreapp2.0\VaporStore.dll
+D:\Projects\CSharpDBFundamentals\Databases Advanced - Entity Framework\Exams\C# DB Advanced Retake Exam - 01.09.2018 - VaporStore\VaporStore\obj\Debug\netcoreapp2.0\VaporStore.pdb

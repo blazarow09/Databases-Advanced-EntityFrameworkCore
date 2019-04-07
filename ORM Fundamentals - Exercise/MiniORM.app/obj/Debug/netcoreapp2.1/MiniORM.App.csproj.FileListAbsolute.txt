@@ -1,0 +1,14 @@
+D:\Projects\CSharpDBFundamentals\Databases Advanced - Entity Framework\ORM Fundamentals - Exercise\MiniORM.app\obj\Debug\netcoreapp2.1\MiniORM.App.csprojAssemblyReference.cache
+D:\Projects\CSharpDBFundamentals\Databases Advanced - Entity Framework\ORM Fundamentals - Exercise\MiniORM.app\obj\Debug\netcoreapp2.1\MiniORM.App.csproj.CoreCompileInputs.cache
+D:\Projects\CSharpDBFundamentals\Databases Advanced - Entity Framework\ORM Fundamentals - Exercise\MiniORM.app\obj\Debug\netcoreapp2.1\MiniORM.App.AssemblyInfoInputs.cache
+D:\Projects\CSharpDBFundamentals\Databases Advanced - Entity Framework\ORM Fundamentals - Exercise\MiniORM.app\obj\Debug\netcoreapp2.1\MiniORM.App.AssemblyInfo.cs
+D:\Projects\CSharpDBFundamentals\Databases Advanced - Entity Framework\ORM Fundamentals - Exercise\MiniORM.app\bin\Debug\netcoreapp2.1\MiniORM.App.deps.json
+D:\Projects\CSharpDBFundamentals\Databases Advanced - Entity Framework\ORM Fundamentals - Exercise\MiniORM.app\bin\Debug\netcoreapp2.1\MiniORM.App.runtimeconfig.json
+D:\Projects\CSharpDBFundamentals\Databases Advanced - Entity Framework\ORM Fundamentals - Exercise\MiniORM.app\bin\Debug\netcoreapp2.1\MiniORM.App.runtimeconfig.dev.json
+D:\Projects\CSharpDBFundamentals\Databases Advanced - Entity Framework\ORM Fundamentals - Exercise\MiniORM.app\bin\Debug\netcoreapp2.1\MiniORM.App.dll
+D:\Projects\CSharpDBFundamentals\Databases Advanced - Entity Framework\ORM Fundamentals - Exercise\MiniORM.app\bin\Debug\netcoreapp2.1\MiniORM.App.pdb
+D:\Projects\CSharpDBFundamentals\Databases Advanced - Entity Framework\ORM Fundamentals - Exercise\MiniORM.app\bin\Debug\netcoreapp2.1\MiniORM.dll
+D:\Projects\CSharpDBFundamentals\Databases Advanced - Entity Framework\ORM Fundamentals - Exercise\MiniORM.app\bin\Debug\netcoreapp2.1\MiniORM.pdb
+D:\Projects\CSharpDBFundamentals\Databases Advanced - Entity Framework\ORM Fundamentals - Exercise\MiniORM.app\obj\Debug\netcoreapp2.1\MiniORM.App.csproj.CopyComplete
+D:\Projects\CSharpDBFundamentals\Databases Advanced - Entity Framework\ORM Fundamentals - Exercise\MiniORM.app\obj\Debug\netcoreapp2.1\MiniORM.App.dll
+D:\Projects\CSharpDBFundamentals\Databases Advanced - Entity Framework\ORM Fundamentals - Exercise\MiniORM.app\obj\Debug\netcoreapp2.1\MiniORM.App.pdb

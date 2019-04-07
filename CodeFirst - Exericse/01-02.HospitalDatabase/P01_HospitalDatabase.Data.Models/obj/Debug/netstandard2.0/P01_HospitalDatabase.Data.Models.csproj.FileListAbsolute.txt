@@ -1,0 +1,9 @@
+D:\Projects\CSharpDBFundamentals\Databases Advanced - Entity Framework\New folder\CodeFirst - Exericse\P01_HospitalDatabase.Data.Models\bin\Debug\netstandard2.0\P01_HospitalDatabase.Data.Models.deps.json
+D:\Projects\CSharpDBFundamentals\Databases Advanced - Entity Framework\New folder\CodeFirst - Exericse\P01_HospitalDatabase.Data.Models\bin\Debug\netstandard2.0\P01_HospitalDatabase.Data.Models.dll
+D:\Projects\CSharpDBFundamentals\Databases Advanced - Entity Framework\New folder\CodeFirst - Exericse\P01_HospitalDatabase.Data.Models\bin\Debug\netstandard2.0\P01_HospitalDatabase.Data.Models.pdb
+D:\Projects\CSharpDBFundamentals\Databases Advanced - Entity Framework\New folder\CodeFirst - Exericse\P01_HospitalDatabase.Data.Models\obj\Debug\netstandard2.0\P01_HospitalDatabase.Data.Models.csproj.CoreCompileInputs.cache
+D:\Projects\CSharpDBFundamentals\Databases Advanced - Entity Framework\New folder\CodeFirst - Exericse\P01_HospitalDatabase.Data.Models\obj\Debug\netstandard2.0\P01_HospitalDatabase.Data.Models.AssemblyInfoInputs.cache
+D:\Projects\CSharpDBFundamentals\Databases Advanced - Entity Framework\New folder\CodeFirst - Exericse\P01_HospitalDatabase.Data.Models\obj\Debug\netstandard2.0\P01_HospitalDatabase.Data.Models.AssemblyInfo.cs
+D:\Projects\CSharpDBFundamentals\Databases Advanced - Entity Framework\New folder\CodeFirst - Exericse\P01_HospitalDatabase.Data.Models\obj\Debug\netstandard2.0\P01_HospitalDatabase.Data.Models.dll
+D:\Projects\CSharpDBFundamentals\Databases Advanced - Entity Framework\New folder\CodeFirst - Exericse\P01_HospitalDatabase.Data.Models\obj\Debug\netstandard2.0\P01_HospitalDatabase.Data.Models.pdb
+D:\Projects\CSharpDBFundamentals\Databases Advanced - Entity Framework\New folder\CodeFirst - Exericse\P01_HospitalDatabase.Data.Models\obj\Debug\netstandard2.0\P01_HospitalDatabase.Data.Models.csprojAssemblyReference.cache
