@@ -1,0 +1,2 @@
+# Databases-Advanced-EntityFrameworkCore
+The course tracks in detail the ORM technology: Entity Framework Core (EF core), which is an ORM standard in C# and .NET Core applications. EF Core allows mapping between a relational base and an object-oriented model using both the "database first" and "code first" approaches and provides a powerful object-oriented API for querying the database and performing CRUD operations.
